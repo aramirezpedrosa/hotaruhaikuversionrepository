@@ -1,0 +1,11 @@
+[
+  {"id":1,"titulo":"Hotaru","numero":1,"fechaPublicacion":"2023-12-21","urlPortada":"https://lasendadelhaiku.com/wp-content/uploads/2023/12/horatu-1.png","urlContenido":"https://lasendadelhaiku.com/wp-content/uploads/2023/12/hotaru1-simplificada.pdf"},
+  {"id":2,"titulo":"Hotaru","numero":2,"fechaPublicacion":"2024-03-21","urlPortada":"https://lasendadelhaiku.com/wp-content/uploads/2024/02/portada.png","urlContenido":"https://lasendadelhaiku.com/wp-content/uploads/2024/03/hotaru2-version-ligera-1.pdf"},
+  {"id":3,"titulo":"Hotaru","numero":3,"fechaPublicacion":"2024-06-21","urlPortada":"https://lasendadelhaiku.com/wp-content/uploads/2024/06/portada.png","urlContenido":"https://lasendadelhaiku.com/wp-content/uploads/2024/06/hotaru3-simplificado.pdf"},
+  {"id":4,"titulo":"Hotaru","numero":4,"fechaPublicacion":"2024-09-21","urlPortada":"https://lasendadelhaiku.com/wp-content/uploads/2024/09/hotaru-iv.png","urlContenido":"https://lasendadelhaiku.com/wp-content/uploads/2024/09/hotaru-iv-version-ligera.pdf"},
+  {"id":5,"titulo":"Hotaru","numero":5,"fechaPublicacion":"2024-12-21","urlPortada":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2024/12/portada-1.png","urlContenido":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2024/12/hotaru5.pdf"},
+  {"id":6,"titulo":"Hotaru","numero":6,"fechaPublicacion":"2025-03-21","urlPortada":"https://lasendadelhaiku.com/wp-content/uploads/2025/03/portada.png","urlContenido":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2025/03/hotaru6.pdf"},
+  {"id":7,"titulo":"Hotaru","numero":7,"fechaPublicacion":"2025-06-21","urlPortada":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2025/06/1.png","urlContenido":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2025/06/hotaru-vii.pdf"},
+  {"id":8,"titulo":"Hotaru","numero":8,"fechaPublicacion":"2025-10-21","urlPortada":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2025/10/portada-8-reducida.png","urlContenido":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2025/10/hotaru-8.pdf"},
+  {"id":9,"titulo":"Hotaru","numero":9,"fechaPublicacion":"2026-05-16","urlPortada":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2026/05/portada9-reducida.png","urlContenido":"https://lasendadelhaiku.wordpress.com/wp-content/uploads/2026/05/hotaru9_lite.pdf"}
+]

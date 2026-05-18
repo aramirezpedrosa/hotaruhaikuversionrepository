@@ -1,0 +1,7 @@
+{
+  "entities": [
+    {"id": "revistas",             "version": 5, "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/revistas.json"},
+    {"id": "antologias",           "version": 6, "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/antologias.json"},
+    {"id": "coleccionhotarunoyume","version": 3, "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/coleccion_hotaru_no_yume.json"}
+  ]
+}
