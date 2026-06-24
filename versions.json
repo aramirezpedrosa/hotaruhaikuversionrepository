@@ -1,7 +1,54 @@
 {
   "entities": [
-    {"id": "revistas",             "version": 5, "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/revistas.json"},
-    {"id": "antologias",           "version": 6, "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/antologias.json"},
-    {"id": "coleccionhotarunoyume","version": 4, "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/coleccion_hotaru_no_yume.json"}
+    {
+      "id": "revistas",
+      "version": 5,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/revistas.json"
+    },
+    {
+      "id": "antologias",
+      "version": 6,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/antologias.json"
+    },
+    {
+      "id": "coleccionhotarunoyume",
+      "version": 4,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/coleccion_hotaru_no_yume.json"
+    },
+    {
+      "id": "kigo",
+      "version": 3,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/kigo.json"
+    },
+    {
+      "id": "haikumaestro",
+      "version": 7,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/haikumaestro.json"
+    },
+    {
+      "id": "consejos",
+      "version": 9,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/consejos.json"
+    },
+    {
+      "id": "mecenas",
+      "version": 5,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/mecenas.json"
+    },
+    {
+      "id": "kigo_translations",
+      "version": 3,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/kigo_translations.json"
+    },
+    {
+      "id": "palabrasreto",
+      "version": 3,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/palabrasreto.json"
+    },
+    {
+      "id": "classic_authors",
+      "version": 2,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/classic_authors.json"
+    }
   ]
 }
