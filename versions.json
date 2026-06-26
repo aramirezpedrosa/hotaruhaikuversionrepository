@@ -22,7 +22,7 @@
     },
     {
       "id": "haikumaestro",
-      "version": 8,
+      "version": 9,
       "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/haikumaestro.json"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "id": "classic_authors",
-      "version": 3,
+      "version": 4,
       "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/classic_authors.json"
     }
   ]
