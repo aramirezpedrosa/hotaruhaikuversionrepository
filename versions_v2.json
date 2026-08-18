@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "id": "revistas",
+      "version": 6,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/revistas.json"
+    },
+    {
+      "id": "antologias",
+      "version": 8,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/antologias.json"
+    },
+    {
+      "id": "coleccionhotarunoyume",
+      "version": 5,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/coleccion_hotaru_no_yume.json"
+    },
+    {
+      "id": "kigo",
+      "version": 4,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/kigo.json"
+    },
+    {
+      "id": "haikumaestro",
+      "version": 9,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/haikumaestro.json"
+    },
+    {
+      "id": "consejos",
+      "version": 11,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/consejos.json"
+    },
+    {
+      "id": "mecenas",
+      "version": 6,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/mecenas.json"
+    },
+    {
+      "id": "kigo_translations",
+      "version": 4,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/kigo_translations.json"
+    },
+    {
+      "id": "palabrasreto",
+      "version": 4,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/palabrasreto.json"
+    },
+    {
+      "id": "classic_authors",
+      "version": 4,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/main/classic_authors.json"
+    },
+    {
+      "id": "wagashi_lessons",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/develop/wagashi_lessons.json"
+    },
+    {
+      "id": "wagashi_examen",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/develop/wagashi_examen.json"
+    },
+    {
+      "id": "wagashi_badges",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/develop/wagashi_badges.json"
+    },
+    {
+      "id": "wagashi_frases",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/develop/wagashi_frases.json"
+    },
+    {
+      "id": "wagashi_hotaru",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/develop/wagashi_hotaru.json"
+    }
+  ]
+}
