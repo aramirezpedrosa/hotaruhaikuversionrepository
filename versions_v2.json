@@ -7,12 +7,12 @@
     },
     {
       "id": "antologias",
-      "version": 9,
+      "version": 10,
       "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/antologias.json"
     },
     {
       "id": "coleccionhotarunoyume",
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/coleccion_hotaru_no_yume.json"
     },
     {
