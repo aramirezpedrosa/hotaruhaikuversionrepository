@@ -2,7 +2,7 @@
   "entities": [
     {
       "id": "revistas",
-      "version": 6,
+      "version": 7,
       "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/revistas.json"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "id": "coleccionhotarunoyume",
-      "version": 7,
+      "version": 8,
       "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/main/coleccion_hotaru_no_yume.json"
     },
     {
