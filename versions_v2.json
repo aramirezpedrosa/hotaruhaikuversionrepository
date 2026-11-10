@@ -74,6 +74,11 @@
       "id": "wagashi_hotaru",
       "version": 3,
       "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/develop/wagashi_hotaru.json"
+    },
+    {
+      "id": "crucigrama",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/aramirezpedrosa/hotaruhaikuversionrepository/refs/heads/develop/crucigrama.json"
     }
   ]
 }
